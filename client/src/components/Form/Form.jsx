@@ -24,7 +24,7 @@ function Form() {
     }
 
     const clear = () => {
-
+        // TODO: make clear
     }
 
     return (
